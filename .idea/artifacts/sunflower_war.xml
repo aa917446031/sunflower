@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sunflower:war">
+    <output-path>$PROJECT_DIR$/../sunflower/target</output-path>
+    <root id="archive" name="sunflower.war">
+      <element id="artifact" artifact-name="sunflower:war exploded" />
+    </root>
+  </artifact>
+</component>
